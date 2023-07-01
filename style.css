@@ -28,7 +28,7 @@ body{
     width: 300px;
     position: relative;
     top: -50px;
-    left: 50px;
+    margin: 0 auto;
 }
 
 .image-container img{
@@ -59,7 +59,7 @@ h3{
     background-color: #fff;
     border-radius: 5px;
     cursor: pointer;
-    margin: 40px 20px;
+    margin: 40px auto;
     height: 4px;
     width: 90%;   
 }
